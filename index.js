@@ -1,4 +1,5 @@
 // Add input element inside form, before button, to take fruit description
+console.log("testing...");
 let form = document.querySelector("form");
 let inputElement = document.createElement("input");
 let button = document.querySelector("button");
